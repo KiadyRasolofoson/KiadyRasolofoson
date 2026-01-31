@@ -66,40 +66,44 @@ Passion: Transformer des idées en code
 - 📱 **App Development** - Applications desktop et mobile
 - 🌐 **Web Development** - Solutions web modernes
 
-## 📈 Statistiques GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiadyRasolofoson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyRasolofoson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiadyRasolofoson&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
-
-</div>
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-  
-![Trophées](https://github-profile-trophy.vercel.app/?username=KiadyRasolofoson&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiadyRasolofoson&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/KiadyRasolofoson)
-
-</div>
-
 ## 🌱 En ce moment j'apprends...
 
 - 🔧 Outils DevOps avancés
 - 🤖 Machine Learning et Data Science
 - ☁️ Architecture Cloud et Microservices
 - 🎯 Best practices en développement backend
+
+## 🛠️ Technologies & Outils
+
+<div align="center">
+
+### Développement
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📂 Projets Récents
+
+<div align="center">
+
+| 🎮 Game Dev | 📱 App Dev | 🌐 Web Dev |
+|-------------|------------|------------|
+| Jeux interactifs | Applications modernes | Sites web dynamiques |
+| Moteurs de jeu | Interface utilisateur | Backend robuste |
+
+</div>
 
 ## 📫 Comment me contacter
 
