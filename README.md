@@ -40,25 +40,15 @@ Passion: Transformer des idées en code
 
 ### 🎯 Domaines de Spécialisation
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/devops.png" width="60px"/><br/>
-      <b>DevOps</b><br/>
-      <sub>CI/CD, Automation</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/server.png" width="60px"/><br/>
-      <b>Backend</b><br/>
-      <sub>API, Microservices</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"/><br/>
-      <b>Data Learning</b><br/>
-      <sub>ML, Analytics</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| ⚙️ DevOps | 🔧 Backend | 🤖 Data Learning |
+|-----------|------------|------------------|
+| CI/CD | API REST | Machine Learning |
+| Automation | Microservices | Data Analytics |
+| Docker | Bases de données | Deep Learning |
+
+</div>
 
 ### 🎨 Types de Projets
 
@@ -66,44 +56,64 @@ Passion: Transformer des idées en code
 - 📱 **App Development** - Applications desktop et mobile
 - 🌐 **Web Development** - Solutions web modernes
 
-## 🌱 En ce moment j'apprends...
-
-- 🔧 Outils DevOps avancés
-- 🤖 Machine Learning et Data Science
-- ☁️ Architecture Cloud et Microservices
-- 🎯 Best practices en développement backend
-
 ## 🛠️ Technologies & Outils
 
 <div align="center">
 
-### Développement
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### Backend & Database
+### Backend & Bases de Données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Développement
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
-## 📂 Projets Récents
+## 📈 Statistiques GitHub
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=KiadyRasolofoson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyRasolofoson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=KiadyRasolofoson&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+</div>
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=KiadyRasolofoson&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophées GitHub" />
+
+</div>
+
+## 🔥 Activité de Contribution
 
 <div align="center">
 
-| 🎮 Game Dev | 📱 App Dev | 🌐 Web Dev |
-|-------------|------------|------------|
-| Jeux interactifs | Applications modernes | Sites web dynamiques |
-| Moteurs de jeu | Interface utilisateur | Backend robuste |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KiadyRasolofoson&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
+
+## 🌱 En ce moment j'apprends...
+
+- 🔧 Outils DevOps avancés (Jenkins, Kubernetes, Ansible)
+- 🤖 Machine Learning et Data Science (TensorFlow, Scikit-learn)
+- ☁️ Architecture Cloud et Microservices (AWS, Azure)
+- 🎯 Best practices en développement backend
+- 🗄️ Administration de bases de données Oracle
 
 ## 📫 Comment me contacter
 
