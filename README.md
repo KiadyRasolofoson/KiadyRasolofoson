@@ -20,7 +20,7 @@
 ---
 
 ## 📊 Stats
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=KiadyRasolofoson&show_icons=true&theme=dark)
 
 ---
 
