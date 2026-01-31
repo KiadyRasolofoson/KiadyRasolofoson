@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Bonjour, je suis Benjanirina Kiady RASOLOFOSON
+# 👋 Bonjour, je suis Kiady RASOLOFOSON
 
 ### 🚀 Étudiant en Informatique | DevOps Enthusiast | Développeur Backend & Data Learning
 
