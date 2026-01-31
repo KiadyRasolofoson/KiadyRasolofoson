@@ -62,17 +62,17 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/devops.png" width="40"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/10435/10435087.png" width="40"/>
       <br><b>⚙️ DevOps</b><br>
-      <sub>CI/CD • Automation<br>Docker • Kubernetes</sub>
+      <sub>CI/CD • Automation<br>Docker • Git</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="40"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40"/>
       <br><b>🔧 Backend</b><br>
       <sub>API REST • Microservices<br>Bases de données</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40"/>
       <br><b>🤖 Data Learning</b><br>
       <sub>Machine Learning<br>Data Analytics • Deep Learning</sub>
     </td>
@@ -105,7 +105,7 @@
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,github,jenkins&theme=dark" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" alt="DevOps"/>
 </p>
 
 ### 🔨 Développement & IDEs
@@ -115,7 +115,7 @@
 
 ### 🌐 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,laravel,django,flask,nodejs&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs&theme=dark" alt="Frameworks"/>
 </p>
 
 </div>
@@ -126,17 +126,23 @@
 
 <div align="center">
 
-<!-- Stats Card avec instance alternative -->
-<a href="https://github.com/KiadyRasolofoson">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KiadyRasolofoson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/KiadyRasolofoson">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KiadyRasolofoson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</a>
+<!-- Stats Card -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=KiadyRasolofoson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiadyRasolofoson&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyRasolofoson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" media="(prefers-color-scheme: dark)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyRasolofoson&layout=compact&langs_count=8" alt="Top Languages"/>
+</picture>
 
 <!-- Streak Stats -->
 <br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=KiadyRasolofoson&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=58A6FF" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=KiadyRasolofoson&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=58A6FF" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -146,12 +152,9 @@
 
 <div align="center">
 
-<!-- Trophées avec instance alternative -->
-<img src="https://github-profile-trophy.vercel.app/?username=KiadyRasolofoson&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophées GitHub"/>
-
-<!-- Alternative si le premier ne fonctionne pas -->
-<br/>
-<img src="https://github-trophies.vercel.app/?username=KiadyRasolofoson&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophées GitHub Alt"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=KiadyRasolofoson&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophées GitHub"/>
+</a>
 
 </div>
 
@@ -208,11 +211,6 @@
 <a href="https://www.linkedin.com/in/rasolofoson-kiady-7aa060306/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<br/><br/>
-
-<!-- Citation avec style -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
